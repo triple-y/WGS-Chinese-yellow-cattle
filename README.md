@@ -1,1 +1,1 @@
-# WGS-cattle-manuscript
+Whole genome sequence data analysis procedure
